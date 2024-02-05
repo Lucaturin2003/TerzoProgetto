@@ -1,0 +1,15 @@
+C:\Users\luca\source\repos\Fields\Fields\bin\Debug\net8.0\Fields.exe
+C:\Users\luca\source\repos\Fields\Fields\bin\Debug\net8.0\Fields.deps.json
+C:\Users\luca\source\repos\Fields\Fields\bin\Debug\net8.0\Fields.runtimeconfig.json
+C:\Users\luca\source\repos\Fields\Fields\bin\Debug\net8.0\Fields.dll
+C:\Users\luca\source\repos\Fields\Fields\bin\Debug\net8.0\Fields.pdb
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.AssemblyInfoInputs.cache
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.AssemblyInfo.cs
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.sourcelink.json
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.dll
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\refint\Fields.dll
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.pdb
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\Fields.genruntimeconfig.cache
+C:\Users\luca\source\repos\Fields\Fields\obj\Debug\net8.0\ref\Fields.dll
